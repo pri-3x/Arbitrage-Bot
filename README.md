@@ -6,7 +6,7 @@ To run the project run the following commands:
 
 2) "npm install": to install all the dependencies used in the project.
 
-After the node modules are installed
+ After the node modules are installed
 
 3) "npm start": to start the project.
 
