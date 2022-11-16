@@ -1,0 +1,24 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+   
+    "axios": "^1.1.3",
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "ethers": "^5.7.2",
+    "express": "^4.18.2",
+    "infura-web3-provider": "^0.0.3",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.38",
+    "node": "^19.0.1",
+    "numeral": "^2.0.6",
+    "request": "^2.88.2"
+  },
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "node test.js"
+  }
+}
